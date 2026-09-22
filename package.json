@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "BASE_URL=https://pokeapi.co jiti ./src/index.ts"
+    "dev": "BASE_URL=https://pokeapi.co jiti ./src/index.ts",
+    "test": "vitest"
   },
   "keywords": [],
   "author": "",
@@ -22,6 +23,8 @@
     "jiti": "^2.7.0"
   },
   "dependencies": {
-    "effect": "^3.22.1"
+    "effect": "^3.22.1",
+    "msw": "^2.15.0",
+    "vitest": "^5.0.1"
   }
 }
