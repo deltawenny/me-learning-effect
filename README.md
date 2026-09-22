@@ -18,6 +18,7 @@ Current progress:
 - Config
 - Effect services
 - Layers
+- Testing with services
 
 TODO:
-https://www.typeonce.dev/course/effect-beginners-complete-getting-started/testing-with-services/vitest-and-msw-testing-setup
+https://www.typeonce.dev/course/effect-beginners-complete-getting-started/runtime/why-using-a-runtime
